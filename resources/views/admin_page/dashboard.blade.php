@@ -1,6 +1,6 @@
-@extends('master')
+@extends('admin')
 
-@section('title', 'Home')
+@section('title', 'Dashboard')
 
 @section('konten')
 
